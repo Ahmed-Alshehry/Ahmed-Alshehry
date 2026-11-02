@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ahmed
 
-<!--
-**Ahmed-Alshehry/Ahmed-Alshehry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Cyber Security student at Asia Pacific University (APU), Malaysia.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Linux and networking (Hack The Box Academy)
+- CTF basics: cryptography, web, binary and OSINT
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've done
+- Built a fire detection and suppression robot for my school Science Fair
+- Completed a CTF preparation workshop and the Hack Hunt Hide security workshop
+- Joining a CTF competition on 14 Nov 2026
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ahmad-alshehry-/
